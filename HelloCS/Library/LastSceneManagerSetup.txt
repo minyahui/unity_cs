@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/EasyTouch/Example/C# Example/StartMenu.unity
+  isLoaded: 1
+  isActive: 1
